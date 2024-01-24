@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         xCloud Notification
-// @namespace    https://github.com/redphx
+// @namespace    https://github.com/PotatoPTT
 // @version      1.0.0
 // @description  Simple Notification for Xcloud
 // @author       PotatoPTT
